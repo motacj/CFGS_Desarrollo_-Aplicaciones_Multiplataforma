@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project xmlns="http://schemas.microsoft.com/project">
+  <Name>Plan de Estudio Inglés A2</Name>
+  <StartDate>2025-02-09</StartDate>
+  <EndDate>2025-03-09</EndDate>
+  <Tasks>
+    <Task>
+      <ID>1</ID>
+      <Name>Presente simple</Name>
+      <Start>2025-02-09</Start>
+      <Duration>1d</Duration>
+      <Predecessor></Predecessor>
+    </Task>
+    <Task>
+      <ID>2</ID>
+      <Name>Have got</Name>
+      <Start>2025-02-10</Start>
+      <Duration>1d</Duration>
+      <Predecessor>1</Predecessor>
+    </Task>
+    <Task>
+      <ID>3</ID>
+      <Name>To Can</Name>
+      <Start>2025-02-11</Start>
+      <Duration>1d</Duration>
+      <Predecessor>2</Predecessor>
+    </Task>
+    <Task>
+      <ID>4</ID>
+      <Name>Partículas interrogativas</Name>
+      <Start>2025-02-12</Start>
+      <Duration>1d</Duration>
+      <Predecessor>3</Predecessor>
+    </Task>
+    <Task>
+      <ID>5</ID>
+      <Name>Do, To Be, Would</Name>
+      <Start>2025-02-13</Start>
+      <Duration>1d</Duration>
+      <Predecessor>4</Predecessor>
+    </Task>
+    <Task>
+      <ID>6</ID>
+      <Name>Pronombres posesivos</Name>
+      <Start>2025-02-14</Start>
+      <Duration>1d</Duration>
+      <Predecessor>5</Predecessor>
+    </Task>
+    <Task>
+      <ID>7</ID>
+      <Name>Adverbios de frecuencia</Name>
+      <Start>2025-02-16</Start>
+      <Duration>1d</Duration>
+      <Predecessor>6</Predecessor>
+    </Task>
+    <Task>
+      <ID>8</ID>
+      <Name>Imperativos</Name>
+      <Start>2025-02-17</Start>
+      <Duration>1d</Duration>
+      <Predecessor>7</Predecessor>
+    </Task>
+    <Task>
+      <ID>9</ID>
+      <Name>Preposiciones de movimiento</Name>
+      <Start>2025-02-18</Start>
+      <Duration>1d</Duration>
+      <Predecessor>8</Predecessor>
+    </Task>
+    <Task>
+      <ID>10</ID>
+      <Name>Preposiciones de lugar</Name>
+      <Start>2025-02-19</Start>
+      <Duration>1d</Duration>
+      <Predecessor>9</Predecessor>
+    </Task>
+    <Task>
+      <ID>11</ID>
+      <Name>Presente continuo</Name>
+      <Start>2025-02-23</Start>
+      <Duration>1d</Duration>
+      <Predecessor>10</Predecessor>
+    </Task>
+    <Task>
+      <ID>12</ID>
+      <Name>Pasado simple</Name>
+      <Start>2025-02-24</Start>
+      <Duration>2d</Duration>
+      <Predecessor>11</Predecessor>
+    </Task>
+    <Task>
+      <ID>13</ID>
+      <Name>Futuro</Name>
+      <Start>2025-02-26</Start>
+      <Duration>1d</Duration>
+      <Predecessor>12</Predecessor>
+    </Task>
+    <Task>
+      <ID>14</ID>
+      <Name>Repaso y práctica general</Name>
+      <Start>2025-03-01</Start>
+      <Duration>7d</Duration>
+      <Predecessor>13</Predecessor>
+    </Task>
+  </Tasks>
+</Project>
